@@ -21,8 +21,8 @@ bl_info = {
     "author":
         "Jean-Francois Gallant (PyroEvil), "
         "Pavel_Blend, "
-        "Martin Felke (scorpion81)",
-        "Ben Knowles (3enny3oy / 3D-World-UK)
+        "Martin Felke (scorpion81)"
+        "Ben Knowles (3enny3oy / 3D-World-UK)",
     "version": (1, 1, 3),
     "blender": (2, 93, 0),
     "location": "Properties editor > Particles Tabs",
